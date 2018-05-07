@@ -1,5 +1,5 @@
 # Train Scheduler
-### Homework assignment 7 - Build a train schedule tool utilizing Firebase
+### Homework Assignment 7 - Build a train schedule tool utilizing Firebase
 #### Summary
 Simple web app to utilize the google's Firebase database. Using a simple html form with bootstrap, the user inputs the simple train schedule data - the name of the train, destination, time of the first departure, and frequency. The data is captured with javascript and written to Firebase. 
 
